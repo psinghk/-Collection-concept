@@ -20,6 +20,7 @@ public class HashSetDemo {
 		 //h.add("A");
 		 System.out.println(h);
 		 System.out.println("===================Testgit first========:");
+		 System.out.println("===================Testgit first========:");
 		 System.out.println(h.size());
 	}
 
